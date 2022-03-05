@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-michael--schienbein-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michael-schienbein/) [![Gmail Badge](https://img.shields.io/badge/-ma@schienbe.in-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:ma@schienbe.in)](mailto:ma@schienbe.in) [![GitHub Mschien](https://img.shields.io/github/followers/mschien?label=follow&style=social)](https://github.com/mschien)
 
-I am a Full-Stack Developer and Digital Nomad, looking for opportunities working remotely.
+I am a Full-Stack Developer looking for opportunities working remotely.
 
 ## 🌱 I’m currently learning
 
