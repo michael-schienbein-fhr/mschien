@@ -13,9 +13,9 @@ I am a Full-Stack Developer looking for opportunities working remotely.
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 <br>
- ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 <br>
   ![JQuery](http://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
