@@ -7,7 +7,7 @@ I am a Full-Stack Developer looking for opportunities working remotely.
 
 ## 🌱 I’m currently learning
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
