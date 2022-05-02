@@ -9,7 +9,7 @@ I am a Full-Stack Developer looking for opportunities working remotely.
 
 ## 🌱 I’m currently learning
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
-
+  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=reactnative)
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
