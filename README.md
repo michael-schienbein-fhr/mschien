@@ -31,7 +31,7 @@ I am a Full-Stack Developer looking for opportunities working remotely.
 <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)  
+  ![VSCode](https://img.shields.io/badge/-intellijidea-007ACC?style=flat-square&logo=intellij-idea)  
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mschien&show_icons=true&theme=dark&hide=stars,issues&hide_title=true" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschien&layout=compact&theme=dark&hide_title=true" >
