@@ -8,7 +8,7 @@
 I am a Full-Stack Developer looking for opportunities working remotely.
 
 ## 🌱 I’m currently learning
-  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextjs)
+  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
 
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
