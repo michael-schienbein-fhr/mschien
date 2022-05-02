@@ -35,7 +35,7 @@ I am a Full-Stack Developer looking for opportunities working remotely.
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mschien&show_icons=true&theme=dark&hide=stars,issues&hide_title=true" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschien&layout=compact&theme=dark&hide_title=true" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschien&exclude_repo=keymix&layout=compact&theme=dark&hide_title=true" >
 
 
 
