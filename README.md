@@ -17,11 +17,10 @@ I am a Full-Stack Developer looking for opportunities working remotely.
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 <br>
-  ![JQuery](http://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
+  ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 <br>
-  ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
