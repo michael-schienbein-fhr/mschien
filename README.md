@@ -2,9 +2,9 @@
 ### Hey, I'm Michael 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/schienbein-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/schienbein/) 
-[![Gmail Badge](https://img.shields.io/badge/-m@schienbein.dev-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:m@schienbein.dev)](mailto:m@schienbein.dev)
-[![Twitter Badge](https://img.shields.io/badge/-mschien_-1DA1F2?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/mschien_)
-[![Portfolio Badge](https://img.shields.io/badge/-schienbein.dev_-purple?style=flat&logo=React&logoColor=black)](https://schienbein.dev)
+[![Gmail Badge](https://img.shields.io/badge/-m@schienbein.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m@schienbein.dev)](mailto:m@schienbein.dev)
+[![Twitter Badge](https://img.shields.io/badge/-mschien_-1DA1F2?style=flat&logo=Twitter&logoColor=wihte)](https://twitter.com/mschien_)
+[![Portfolio Badge](https://img.shields.io/badge/-schienbein.dev_-purple?style=flat&logo=React&logoColor=white)](https://schienbein.dev)
 [![GitHub Mschien](https://img.shields.io/github/followers/mschien?label=follow&style=social)](https://github.com/mschien)
 
 I am a Full-Stack Developer looking for opportunities working remotely.
