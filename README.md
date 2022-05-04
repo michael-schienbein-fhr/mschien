@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/schienbein-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/schienbein/) 
 [![Gmail Badge](https://img.shields.io/badge/-m@schienbein.dev-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:m@schienbein.dev)](mailto:m@schienbein.dev)
-[![Twitter Badge](https://img.shields.io/badge/-mschien_-darkblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/mschien_)
+[![Twitter Badge](https://img.shields.io/badge/-mschien_-c1DA1F2?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/mschien_)
 [![GitHub Mschien](https://img.shields.io/github/followers/mschien?label=follow&style=social)](https://github.com/mschien)
 
 I am a Full-Stack Developer looking for opportunities working remotely.
