@@ -35,7 +35,7 @@ I am a Full-Stack Developer looking for opportunities working remotely.
   ![Intellij Idea](https://img.shields.io/badge/-IntellijIdea-black?style=flat-square&logo=intellij-idea)  
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mschien&show_icons=true&theme=dark&hide=stars,issues&hide_title=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=mschien&show_icons=true&theme=dark&hide=stars,issues&hide_title=true&include_all_commits" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschien&&exclude_repo=keymix&layout=compact&theme=dark&hide_title=true&langs_count=10" >
 
 
